@@ -1,0 +1,32 @@
+
+.intro
+{
+    height: 1000px;
+    width: 100%;
+    color:rgb(2, 2, 2);
+    background-image:url("images/mypic.jpg");
+    background-repeat: no-repeat;
+
+}
+
+.intro p {
+    
+    text-align: center;
+    font-weight: 900;
+    font-size: 70px;
+    padding: 500px;
+    
+
+}
+.navbar{
+    color: yellowgreen;
+}
+.me{
+text-align: center;
+padding: 50px;
+font-weight: 700;
+}
+#demo{
+    width: 65%;
+    padding:100px ;
+}
